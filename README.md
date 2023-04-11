@@ -10,4 +10,4 @@ https://www.youtube.com/watch?v=0YIovQXnwBY
 **[Diva Creative](https://www.youtube.com/watch?v=YNeOB8AqCgs&list=PLUPeGakeL55FJhL9-AbPOnrRJXzIMQ7DX&index=1)**
 **[developedbyed](https://www.youtube.com/watch?v=0YIovQXnwBY)**
 
-[Opens in new tab](https://external.ink?to=/placeholder.com)
+<a href="[http://example.com/](https://www.youtube.com/watch?v=YNeOB8AqCgs&list=PLUPeGakeL55FJhL9-AbPOnrRJXzIMQ7DX&index=1)" target="_blank">Diva Creative</a>
