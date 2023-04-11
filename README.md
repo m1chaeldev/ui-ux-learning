@@ -1,5 +1,4 @@
-1. Làm quen tool design
-2. design theory, principle
-3. học ux law cơ bản
-4. copy product để làm quen, hiểu product sao
-quen dần gùi học design process, design thinking, prototyping, ux research nè
+1. Làm quen với các tool designs gồm: Figma, Photoshop, Adobe Illustrator
+2. Học về design theory, design principles
+3. Học UX laws cơ bản
+4. Copy/clone product để làm quen, khi quen rồi thì học design process, design thinking, prototyping, UX research 
